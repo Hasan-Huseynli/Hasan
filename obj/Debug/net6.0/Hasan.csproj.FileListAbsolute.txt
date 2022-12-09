@@ -1,0 +1,15 @@
+/Users/hasan/Projects/Hasan/Hasan/bin/Debug/net6.0/Hasan
+/Users/hasan/Projects/Hasan/Hasan/bin/Debug/net6.0/Hasan.deps.json
+/Users/hasan/Projects/Hasan/Hasan/bin/Debug/net6.0/Hasan.runtimeconfig.json
+/Users/hasan/Projects/Hasan/Hasan/bin/Debug/net6.0/Hasan.dll
+/Users/hasan/Projects/Hasan/Hasan/bin/Debug/net6.0/Hasan.pdb
+/Users/hasan/Projects/Hasan/Hasan/obj/Debug/net6.0/Hasan.csproj.AssemblyReference.cache
+/Users/hasan/Projects/Hasan/Hasan/obj/Debug/net6.0/Hasan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasan/Projects/Hasan/Hasan/obj/Debug/net6.0/Hasan.AssemblyInfoInputs.cache
+/Users/hasan/Projects/Hasan/Hasan/obj/Debug/net6.0/Hasan.AssemblyInfo.cs
+/Users/hasan/Projects/Hasan/Hasan/obj/Debug/net6.0/Hasan.csproj.CoreCompileInputs.cache
+/Users/hasan/Projects/Hasan/Hasan/obj/Debug/net6.0/Hasan.dll
+/Users/hasan/Projects/Hasan/Hasan/obj/Debug/net6.0/refint/Hasan.dll
+/Users/hasan/Projects/Hasan/Hasan/obj/Debug/net6.0/Hasan.pdb
+/Users/hasan/Projects/Hasan/Hasan/obj/Debug/net6.0/Hasan.genruntimeconfig.cache
+/Users/hasan/Projects/Hasan/Hasan/obj/Debug/net6.0/ref/Hasan.dll
